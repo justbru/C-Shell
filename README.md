@@ -25,4 +25,4 @@ grep 'string' 'filename' | searches for 'string' in 'filename'
 Please contact for pull-requests. There will be no push requests.
 
 ## Screenshot
-
+![Basic Usage](https://raw.githubusercontent.com/justbru/C-Shell/0cd67c3afe8c87ac1b0d0257e415fb663c763400/Shell.JPG)
