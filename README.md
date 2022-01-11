@@ -4,7 +4,7 @@ For this project, I created a basic shell in C. The shell handles any of the bas
 
 ## Installation
 
-Shell.out should be able to run in command line via the comman ./shell.out. If not, compile all three *.c files and run from there
+Shell.out should be able to run in command line via the command ./shell.out. If not, compile all three *.c files and run from there
 
 ## Functionality
 Command | Function
@@ -22,4 +22,7 @@ grep 'string' 'filename' | searches for 'string' in 'filename'
 
 
 ## Contributing
-Please Contact for pull-requests. There will be no push requests.
+Please contact for pull-requests. There will be no push requests.
+
+## Screenshot
+
