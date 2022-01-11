@@ -15,7 +15,7 @@ rm 'filename' | remove the specified file
 cat 'filename' | view the specified file
 vim 'filename' | edit existing file or create new file with name 'filename'
 < 'filename' | redirect STDIN to 'filename'
-> 'filename' | redirect STDOUT to 'filename'
+ 'filename' | redirect STDOUT to 'filename'
 head -n 'filename' | Used to print the first N lines of 'filename'
 tail -n 'filename' | Used to print the last N lines of 'filename'
 grep 'string' 'filename' | searches for 'string' in 'filename'
